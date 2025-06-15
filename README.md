@@ -25,6 +25,23 @@ If something doesn't work, feel free to open an issue.
 3. Copy the script file(s) from this repository into that folder.
 4. Back in Aseprite, go to `File -> Scripts -> Rescan Scripts Folder`.
 
+---
+
+## 🧪 **Batch Export Test**
+- ✅ Layer groups: 7 (total 8 layers)
+- ✅ Nested tags: 68
+> 🎯 Total spritesheets exported: 544
+
+<img src="https://github.com/ntd280804/Aseprite-Export-Combinations/blob/main/Aseprite.png">
+
+## 📐 **Formula**
+
+The formula to calculate exported spritesheets is:
+
+> **Total spritesheets** = 𝐿 × 𝑇 = 8 × 68 = 544
+- L = total number of layers
+- T = total number of tags
+
 ## 🧩 Script Included
 
 Here is the current script available:
