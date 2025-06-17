@@ -1,2179 +1,963 @@
 {
   "entries": [
     {
-      "path": "Assets/Resources/Data/BackArm/Idle/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Idle/Bare.png",
       "key": "BackArm_Idle_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Idle/Bare/Bare.png",
-      "key": "BackArm_Idle_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Idle/Sword/Bare.png",
-      "key": "BackArm_Idle_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Idle/Sword,Shield/Bare.png",
-      "key": "BackArm_Idle_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Idle/Bow/Bare.png",
-      "key": "BackArm_Idle_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Idle/Staff/Bare.png",
-      "key": "BackArm_Idle_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Walk/Bare.png",
       "key": "BackArm_Walk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bare/Bare.png",
-      "key": "BackArm_Walk_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Walk/Loop/Bare.png",
+      "key": "BackArm_Walk_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bare/Loop/Bare.png",
-      "key": "BackArm_Walk_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Walk/Brake/Bare.png",
+      "key": "BackArm_Walk_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bare/Brake/Bare.png",
-      "key": "BackArm_Walk_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Sword/Bare.png",
-      "key": "BackArm_Walk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Sword/Loop/Bare.png",
-      "key": "BackArm_Walk_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Sword/Brake/Bare.png",
-      "key": "BackArm_Walk_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Sword,Shield/Bare.png",
-      "key": "BackArm_Walk_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Sword,Shield/Loop/Bare.png",
-      "key": "BackArm_Walk_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Sword,Shield/Brake/Bare.png",
-      "key": "BackArm_Walk_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bow/Bare.png",
-      "key": "BackArm_Walk_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bow/Loop/Bare.png",
-      "key": "BackArm_Walk_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Bow/Brake/Bare.png",
-      "key": "BackArm_Walk_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Staff/Bare.png",
-      "key": "BackArm_Walk_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Staff/Loop/Bare.png",
-      "key": "BackArm_Walk_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Walk/Staff/Brake/Bare.png",
-      "key": "BackArm_Walk_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Jump/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Jump/Bare.png",
       "key": "BackArm_Jump_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Jump/Bare/Bare.png",
-      "key": "BackArm_Jump_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Jump/Sword,Shield/Bare.png",
-      "key": "BackArm_Jump_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Jump/Sword/Bare.png",
-      "key": "BackArm_Jump_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Jump/Bow/Bare.png",
-      "key": "BackArm_Jump_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Jump/Staff/Bare.png",
-      "key": "BackArm_Jump_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/ShieldWalk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/ShieldWalk/Bare.png",
       "key": "BackArm_ShieldWalk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/ShieldWalk/Shield/Bare.png",
-      "key": "BackArm_ShieldWalk_Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/ShieldWalk/Sword/Bare.png",
-      "key": "BackArm_ShieldWalk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Run/Bare.png",
       "key": "BackArm_Run_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Run/Bare/Bare.png",
-      "key": "BackArm_Run_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Run/Loop/Bare.png",
+      "key": "BackArm_Run_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Run/Bare/Loop/Bare.png",
-      "key": "BackArm_Run_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Run/Brake/Bare.png",
+      "key": "BackArm_Run_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Run/Bare/Brake/Bare.png",
-      "key": "BackArm_Run_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Sword/Bare.png",
-      "key": "BackArm_Run_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Sword/Loop/Bare.png",
-      "key": "BackArm_Run_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Sword/Brake/Bare.png",
-      "key": "BackArm_Run_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Sword,Shield/Bare.png",
-      "key": "BackArm_Run_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Sword,Shield/Loop/Bare.png",
-      "key": "BackArm_Run_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Sword,Shield/Brake/Bare.png",
-      "key": "BackArm_Run_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Bow/Bare.png",
-      "key": "BackArm_Run_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Bow/Loop/Bare.png",
-      "key": "BackArm_Run_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Bow/Brake/Bare.png",
-      "key": "BackArm_Run_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Staff/Bare.png",
-      "key": "BackArm_Run_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Staff/Loop/Bare.png",
-      "key": "BackArm_Run_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Run/Staff/Brake/Bare.png",
-      "key": "BackArm_Run_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Death/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Death/Bare.png",
       "key": "BackArm_Death_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Death/Bare/Bare.png",
-      "key": "BackArm_Death_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Death/Sword,Shield/Bare.png",
-      "key": "BackArm_Death_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Death/Sword/Bare.png",
-      "key": "BackArm_Death_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Death/Bow/Bare.png",
-      "key": "BackArm_Death_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Death/Staff/Bare.png",
-      "key": "BackArm_Death_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Hurt/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/Hurt/Bare.png",
       "key": "BackArm_Hurt_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Hurt/Bare/Bare.png",
-      "key": "BackArm_Hurt_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/MeleeAttack/Bare.png",
+      "key": "BackArm_MeleeAttack_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Hurt/Sword/Bare.png",
-      "key": "BackArm_Hurt_Sword_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/MeleeAttack/Swipe/Bare.png",
+      "key": "BackArm_MeleeAttack_Swipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Hurt/Sword,Shield/Bare.png",
-      "key": "BackArm_Hurt_Sword,Shield_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "BackArm_MeleeAttack_2ndSwipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Hurt/Bow/Bare.png",
-      "key": "BackArm_Hurt_Bow_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/MeleeAttack/Stab/Bare.png",
+      "key": "BackArm_MeleeAttack_Stab_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/Hurt/Staff/Bare.png",
-      "key": "BackArm_Hurt_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Effects/Bare.png",
-      "key": "BackArm_Effects_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Effects/Swipe/Bare.png",
-      "key": "BackArm_Effects_Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Effects/2nd Swipe/Bare.png",
-      "key": "BackArm_Effects_2nd Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/Effects/Stab/Bare.png",
-      "key": "BackArm_Effects_Stab_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackArm/BowShoot/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/BowShoot/Bare.png",
       "key": "BackArm_BowShoot_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/BowShoot/Raise/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/BowShoot/Raise/Bare.png",
       "key": "BackArm_BowShoot_Raise_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/BowShoot/Repeat/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/BowShoot/Repeat/Bare.png",
       "key": "BackArm_BowShoot_Repeat_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/BowShoot/FollowThrough/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/BowShoot/FollowThrough/Bare.png",
       "key": "BackArm_BowShoot_FollowThrough_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackArm/SpellCast/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackArm/SpellCast/Bare.png",
       "key": "BackArm_SpellCast_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Idle/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Idle/Bare.png",
       "key": "BackLeg_Idle_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Idle/Bare/Bare.png",
-      "key": "BackLeg_Idle_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Idle/Sword/Bare.png",
-      "key": "BackLeg_Idle_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Idle/Sword,Shield/Bare.png",
-      "key": "BackLeg_Idle_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Idle/Bow/Bare.png",
-      "key": "BackLeg_Idle_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Idle/Staff/Bare.png",
-      "key": "BackLeg_Idle_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Walk/Bare.png",
       "key": "BackLeg_Walk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bare/Bare.png",
-      "key": "BackLeg_Walk_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Walk/Loop/Bare.png",
+      "key": "BackLeg_Walk_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bare/Loop/Bare.png",
-      "key": "BackLeg_Walk_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Walk/Brake/Bare.png",
+      "key": "BackLeg_Walk_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bare/Brake/Bare.png",
-      "key": "BackLeg_Walk_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Sword/Bare.png",
-      "key": "BackLeg_Walk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Sword/Loop/Bare.png",
-      "key": "BackLeg_Walk_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Sword/Brake/Bare.png",
-      "key": "BackLeg_Walk_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Sword,Shield/Bare.png",
-      "key": "BackLeg_Walk_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Sword,Shield/Loop/Bare.png",
-      "key": "BackLeg_Walk_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Sword,Shield/Brake/Bare.png",
-      "key": "BackLeg_Walk_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bow/Bare.png",
-      "key": "BackLeg_Walk_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bow/Loop/Bare.png",
-      "key": "BackLeg_Walk_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Bow/Brake/Bare.png",
-      "key": "BackLeg_Walk_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Staff/Bare.png",
-      "key": "BackLeg_Walk_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Staff/Loop/Bare.png",
-      "key": "BackLeg_Walk_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Walk/Staff/Brake/Bare.png",
-      "key": "BackLeg_Walk_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Jump/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Jump/Bare.png",
       "key": "BackLeg_Jump_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Jump/Bare/Bare.png",
-      "key": "BackLeg_Jump_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Jump/Sword,Shield/Bare.png",
-      "key": "BackLeg_Jump_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Jump/Sword/Bare.png",
-      "key": "BackLeg_Jump_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Jump/Bow/Bare.png",
-      "key": "BackLeg_Jump_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Jump/Staff/Bare.png",
-      "key": "BackLeg_Jump_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/ShieldWalk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/ShieldWalk/Bare.png",
       "key": "BackLeg_ShieldWalk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/ShieldWalk/Shield/Bare.png",
-      "key": "BackLeg_ShieldWalk_Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/ShieldWalk/Sword/Bare.png",
-      "key": "BackLeg_ShieldWalk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Run/Bare.png",
       "key": "BackLeg_Run_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bare/Bare.png",
-      "key": "BackLeg_Run_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Run/Loop/Bare.png",
+      "key": "BackLeg_Run_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bare/Loop/Bare.png",
-      "key": "BackLeg_Run_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Run/Brake/Bare.png",
+      "key": "BackLeg_Run_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bare/Brake/Bare.png",
-      "key": "BackLeg_Run_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Sword/Bare.png",
-      "key": "BackLeg_Run_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Sword/Loop/Bare.png",
-      "key": "BackLeg_Run_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Sword/Brake/Bare.png",
-      "key": "BackLeg_Run_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Sword,Shield/Bare.png",
-      "key": "BackLeg_Run_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Sword,Shield/Loop/Bare.png",
-      "key": "BackLeg_Run_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Sword,Shield/Brake/Bare.png",
-      "key": "BackLeg_Run_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bow/Bare.png",
-      "key": "BackLeg_Run_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bow/Loop/Bare.png",
-      "key": "BackLeg_Run_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Bow/Brake/Bare.png",
-      "key": "BackLeg_Run_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Staff/Bare.png",
-      "key": "BackLeg_Run_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Staff/Loop/Bare.png",
-      "key": "BackLeg_Run_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Run/Staff/Brake/Bare.png",
-      "key": "BackLeg_Run_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Death/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Death/Bare.png",
       "key": "BackLeg_Death_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Death/Bare/Bare.png",
-      "key": "BackLeg_Death_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Death/Sword,Shield/Bare.png",
-      "key": "BackLeg_Death_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Death/Sword/Bare.png",
-      "key": "BackLeg_Death_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Death/Bow/Bare.png",
-      "key": "BackLeg_Death_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Death/Staff/Bare.png",
-      "key": "BackLeg_Death_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Hurt/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/Hurt/Bare.png",
       "key": "BackLeg_Hurt_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Hurt/Bare/Bare.png",
-      "key": "BackLeg_Hurt_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/MeleeAttack/Bare.png",
+      "key": "BackLeg_MeleeAttack_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Hurt/Sword/Bare.png",
-      "key": "BackLeg_Hurt_Sword_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/MeleeAttack/Swipe/Bare.png",
+      "key": "BackLeg_MeleeAttack_Swipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Hurt/Sword,Shield/Bare.png",
-      "key": "BackLeg_Hurt_Sword,Shield_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "BackLeg_MeleeAttack_2ndSwipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Hurt/Bow/Bare.png",
-      "key": "BackLeg_Hurt_Bow_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/MeleeAttack/Stab/Bare.png",
+      "key": "BackLeg_MeleeAttack_Stab_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/Hurt/Staff/Bare.png",
-      "key": "BackLeg_Hurt_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Effects/Bare.png",
-      "key": "BackLeg_Effects_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Effects/Swipe/Bare.png",
-      "key": "BackLeg_Effects_Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Effects/2nd Swipe/Bare.png",
-      "key": "BackLeg_Effects_2nd Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/Effects/Stab/Bare.png",
-      "key": "BackLeg_Effects_Stab_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/BackLeg/BowShoot/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/BowShoot/Bare.png",
       "key": "BackLeg_BowShoot_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/BowShoot/Raise/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/BowShoot/Raise/Bare.png",
       "key": "BackLeg_BowShoot_Raise_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/BowShoot/Repeat/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/BowShoot/Repeat/Bare.png",
       "key": "BackLeg_BowShoot_Repeat_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/BowShoot/FollowThrough/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/BowShoot/FollowThrough/Bare.png",
       "key": "BackLeg_BowShoot_FollowThrough_Bare"
     },
     {
-      "path": "Assets/Resources/Data/BackLeg/SpellCast/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BackLeg/SpellCast/Bare.png",
       "key": "BackLeg_SpellCast_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Idle/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Idle/Bare.png",
       "key": "Torso_Idle_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Idle/Bare/Bare.png",
-      "key": "Torso_Idle_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Idle/Sword/Bare.png",
-      "key": "Torso_Idle_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Idle/Sword,Shield/Bare.png",
-      "key": "Torso_Idle_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Idle/Bow/Bare.png",
-      "key": "Torso_Idle_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Idle/Staff/Bare.png",
-      "key": "Torso_Idle_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Walk/Bare.png",
       "key": "Torso_Walk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Walk/Bare/Bare.png",
-      "key": "Torso_Walk_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Walk/Loop/Bare.png",
+      "key": "Torso_Walk_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Walk/Bare/Loop/Bare.png",
-      "key": "Torso_Walk_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Walk/Brake/Bare.png",
+      "key": "Torso_Walk_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Walk/Bare/Brake/Bare.png",
-      "key": "Torso_Walk_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Sword/Bare.png",
-      "key": "Torso_Walk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Sword/Loop/Bare.png",
-      "key": "Torso_Walk_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Sword/Brake/Bare.png",
-      "key": "Torso_Walk_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Sword,Shield/Bare.png",
-      "key": "Torso_Walk_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Sword,Shield/Loop/Bare.png",
-      "key": "Torso_Walk_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Sword,Shield/Brake/Bare.png",
-      "key": "Torso_Walk_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Bow/Bare.png",
-      "key": "Torso_Walk_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Bow/Loop/Bare.png",
-      "key": "Torso_Walk_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Bow/Brake/Bare.png",
-      "key": "Torso_Walk_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Staff/Bare.png",
-      "key": "Torso_Walk_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Staff/Loop/Bare.png",
-      "key": "Torso_Walk_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Walk/Staff/Brake/Bare.png",
-      "key": "Torso_Walk_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Jump/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Jump/Bare.png",
       "key": "Torso_Jump_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Jump/Bare/Bare.png",
-      "key": "Torso_Jump_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Jump/Sword,Shield/Bare.png",
-      "key": "Torso_Jump_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Jump/Sword/Bare.png",
-      "key": "Torso_Jump_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Jump/Bow/Bare.png",
-      "key": "Torso_Jump_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Jump/Staff/Bare.png",
-      "key": "Torso_Jump_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/ShieldWalk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/ShieldWalk/Bare.png",
       "key": "Torso_ShieldWalk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/ShieldWalk/Shield/Bare.png",
-      "key": "Torso_ShieldWalk_Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/ShieldWalk/Sword/Bare.png",
-      "key": "Torso_ShieldWalk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Run/Bare.png",
       "key": "Torso_Run_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Run/Bare/Bare.png",
-      "key": "Torso_Run_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Run/Loop/Bare.png",
+      "key": "Torso_Run_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Run/Bare/Loop/Bare.png",
-      "key": "Torso_Run_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Run/Brake/Bare.png",
+      "key": "Torso_Run_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Run/Bare/Brake/Bare.png",
-      "key": "Torso_Run_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Sword/Bare.png",
-      "key": "Torso_Run_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Sword/Loop/Bare.png",
-      "key": "Torso_Run_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Sword/Brake/Bare.png",
-      "key": "Torso_Run_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Sword,Shield/Bare.png",
-      "key": "Torso_Run_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Sword,Shield/Loop/Bare.png",
-      "key": "Torso_Run_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Sword,Shield/Brake/Bare.png",
-      "key": "Torso_Run_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Bow/Bare.png",
-      "key": "Torso_Run_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Bow/Loop/Bare.png",
-      "key": "Torso_Run_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Bow/Brake/Bare.png",
-      "key": "Torso_Run_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Staff/Bare.png",
-      "key": "Torso_Run_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Staff/Loop/Bare.png",
-      "key": "Torso_Run_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Run/Staff/Brake/Bare.png",
-      "key": "Torso_Run_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Death/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Death/Bare.png",
       "key": "Torso_Death_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Death/Bare/Bare.png",
-      "key": "Torso_Death_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Death/Sword,Shield/Bare.png",
-      "key": "Torso_Death_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Death/Sword/Bare.png",
-      "key": "Torso_Death_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Death/Bow/Bare.png",
-      "key": "Torso_Death_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Death/Staff/Bare.png",
-      "key": "Torso_Death_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Hurt/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/Hurt/Bare.png",
       "key": "Torso_Hurt_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Hurt/Bare/Bare.png",
-      "key": "Torso_Hurt_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/MeleeAttack/Bare.png",
+      "key": "Torso_MeleeAttack_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Hurt/Sword/Bare.png",
-      "key": "Torso_Hurt_Sword_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/MeleeAttack/Swipe/Bare.png",
+      "key": "Torso_MeleeAttack_Swipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Hurt/Sword,Shield/Bare.png",
-      "key": "Torso_Hurt_Sword,Shield_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "Torso_MeleeAttack_2ndSwipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Hurt/Bow/Bare.png",
-      "key": "Torso_Hurt_Bow_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/MeleeAttack/Stab/Bare.png",
+      "key": "Torso_MeleeAttack_Stab_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/Hurt/Staff/Bare.png",
-      "key": "Torso_Hurt_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Effects/Bare.png",
-      "key": "Torso_Effects_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Effects/Swipe/Bare.png",
-      "key": "Torso_Effects_Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Effects/2nd Swipe/Bare.png",
-      "key": "Torso_Effects_2nd Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/Effects/Stab/Bare.png",
-      "key": "Torso_Effects_Stab_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Torso/BowShoot/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/BowShoot/Bare.png",
       "key": "Torso_BowShoot_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/BowShoot/Raise/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/BowShoot/Raise/Bare.png",
       "key": "Torso_BowShoot_Raise_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/BowShoot/Repeat/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/BowShoot/Repeat/Bare.png",
       "key": "Torso_BowShoot_Repeat_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/BowShoot/FollowThrough/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/BowShoot/FollowThrough/Bare.png",
       "key": "Torso_BowShoot_FollowThrough_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Torso/SpellCast/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Torso/SpellCast/Bare.png",
       "key": "Torso_SpellCast_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Idle/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Idle/Bare.png",
       "key": "FrontLeg_Idle_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Idle/Bare/Bare.png",
-      "key": "FrontLeg_Idle_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Idle/Sword/Bare.png",
-      "key": "FrontLeg_Idle_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Idle/Sword,Shield/Bare.png",
-      "key": "FrontLeg_Idle_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Idle/Bow/Bare.png",
-      "key": "FrontLeg_Idle_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Idle/Staff/Bare.png",
-      "key": "FrontLeg_Idle_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Walk/Bare.png",
       "key": "FrontLeg_Walk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bare/Bare.png",
-      "key": "FrontLeg_Walk_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Walk/Loop/Bare.png",
+      "key": "FrontLeg_Walk_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bare/Loop/Bare.png",
-      "key": "FrontLeg_Walk_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Walk/Brake/Bare.png",
+      "key": "FrontLeg_Walk_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bare/Brake/Bare.png",
-      "key": "FrontLeg_Walk_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Sword/Bare.png",
-      "key": "FrontLeg_Walk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Sword/Loop/Bare.png",
-      "key": "FrontLeg_Walk_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Sword/Brake/Bare.png",
-      "key": "FrontLeg_Walk_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Sword,Shield/Bare.png",
-      "key": "FrontLeg_Walk_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Sword,Shield/Loop/Bare.png",
-      "key": "FrontLeg_Walk_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Sword,Shield/Brake/Bare.png",
-      "key": "FrontLeg_Walk_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bow/Bare.png",
-      "key": "FrontLeg_Walk_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bow/Loop/Bare.png",
-      "key": "FrontLeg_Walk_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Bow/Brake/Bare.png",
-      "key": "FrontLeg_Walk_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Staff/Bare.png",
-      "key": "FrontLeg_Walk_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Staff/Loop/Bare.png",
-      "key": "FrontLeg_Walk_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Walk/Staff/Brake/Bare.png",
-      "key": "FrontLeg_Walk_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Jump/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Jump/Bare.png",
       "key": "FrontLeg_Jump_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Jump/Bare/Bare.png",
-      "key": "FrontLeg_Jump_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Jump/Sword,Shield/Bare.png",
-      "key": "FrontLeg_Jump_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Jump/Sword/Bare.png",
-      "key": "FrontLeg_Jump_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Jump/Bow/Bare.png",
-      "key": "FrontLeg_Jump_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Jump/Staff/Bare.png",
-      "key": "FrontLeg_Jump_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/ShieldWalk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/ShieldWalk/Bare.png",
       "key": "FrontLeg_ShieldWalk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/ShieldWalk/Shield/Bare.png",
-      "key": "FrontLeg_ShieldWalk_Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/ShieldWalk/Sword/Bare.png",
-      "key": "FrontLeg_ShieldWalk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Run/Bare.png",
       "key": "FrontLeg_Run_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bare/Bare.png",
-      "key": "FrontLeg_Run_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Run/Loop/Bare.png",
+      "key": "FrontLeg_Run_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bare/Loop/Bare.png",
-      "key": "FrontLeg_Run_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Run/Brake/Bare.png",
+      "key": "FrontLeg_Run_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bare/Brake/Bare.png",
-      "key": "FrontLeg_Run_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Sword/Bare.png",
-      "key": "FrontLeg_Run_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Sword/Loop/Bare.png",
-      "key": "FrontLeg_Run_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Sword/Brake/Bare.png",
-      "key": "FrontLeg_Run_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Sword,Shield/Bare.png",
-      "key": "FrontLeg_Run_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Sword,Shield/Loop/Bare.png",
-      "key": "FrontLeg_Run_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Sword,Shield/Brake/Bare.png",
-      "key": "FrontLeg_Run_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bow/Bare.png",
-      "key": "FrontLeg_Run_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bow/Loop/Bare.png",
-      "key": "FrontLeg_Run_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Bow/Brake/Bare.png",
-      "key": "FrontLeg_Run_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Staff/Bare.png",
-      "key": "FrontLeg_Run_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Staff/Loop/Bare.png",
-      "key": "FrontLeg_Run_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Run/Staff/Brake/Bare.png",
-      "key": "FrontLeg_Run_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Death/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Death/Bare.png",
       "key": "FrontLeg_Death_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Death/Bare/Bare.png",
-      "key": "FrontLeg_Death_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Death/Sword,Shield/Bare.png",
-      "key": "FrontLeg_Death_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Death/Sword/Bare.png",
-      "key": "FrontLeg_Death_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Death/Bow/Bare.png",
-      "key": "FrontLeg_Death_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Death/Staff/Bare.png",
-      "key": "FrontLeg_Death_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Hurt/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/Hurt/Bare.png",
       "key": "FrontLeg_Hurt_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Hurt/Bare/Bare.png",
-      "key": "FrontLeg_Hurt_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/MeleeAttack/Bare.png",
+      "key": "FrontLeg_MeleeAttack_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Hurt/Sword/Bare.png",
-      "key": "FrontLeg_Hurt_Sword_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/MeleeAttack/Swipe/Bare.png",
+      "key": "FrontLeg_MeleeAttack_Swipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Hurt/Sword,Shield/Bare.png",
-      "key": "FrontLeg_Hurt_Sword,Shield_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "FrontLeg_MeleeAttack_2ndSwipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Hurt/Bow/Bare.png",
-      "key": "FrontLeg_Hurt_Bow_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/MeleeAttack/Stab/Bare.png",
+      "key": "FrontLeg_MeleeAttack_Stab_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/Hurt/Staff/Bare.png",
-      "key": "FrontLeg_Hurt_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Effects/Bare.png",
-      "key": "FrontLeg_Effects_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Effects/Swipe/Bare.png",
-      "key": "FrontLeg_Effects_Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Effects/2nd Swipe/Bare.png",
-      "key": "FrontLeg_Effects_2nd Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/Effects/Stab/Bare.png",
-      "key": "FrontLeg_Effects_Stab_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontLeg/BowShoot/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/BowShoot/Bare.png",
       "key": "FrontLeg_BowShoot_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/BowShoot/Raise/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/BowShoot/Raise/Bare.png",
       "key": "FrontLeg_BowShoot_Raise_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/BowShoot/Repeat/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/BowShoot/Repeat/Bare.png",
       "key": "FrontLeg_BowShoot_Repeat_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/BowShoot/FollowThrough/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/BowShoot/FollowThrough/Bare.png",
       "key": "FrontLeg_BowShoot_FollowThrough_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontLeg/SpellCast/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontLeg/SpellCast/Bare.png",
       "key": "FrontLeg_SpellCast_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Idle/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Idle/Bare.png",
       "key": "Effects_Idle_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Idle/Bare/Bare.png",
-      "key": "Effects_Idle_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Idle/Sword/Bare.png",
-      "key": "Effects_Idle_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Idle/Sword,Shield/Bare.png",
-      "key": "Effects_Idle_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Idle/Bow/Bare.png",
-      "key": "Effects_Idle_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Idle/Staff/Bare.png",
-      "key": "Effects_Idle_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Walk/Bare.png",
       "key": "Effects_Walk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Walk/Bare/Bare.png",
-      "key": "Effects_Walk_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Walk/Loop/Bare.png",
+      "key": "Effects_Walk_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Walk/Bare/Loop/Bare.png",
-      "key": "Effects_Walk_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Walk/Brake/Bare.png",
+      "key": "Effects_Walk_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Walk/Bare/Brake/Bare.png",
-      "key": "Effects_Walk_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Sword/Bare.png",
-      "key": "Effects_Walk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Sword/Loop/Bare.png",
-      "key": "Effects_Walk_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Sword/Brake/Bare.png",
-      "key": "Effects_Walk_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Sword,Shield/Bare.png",
-      "key": "Effects_Walk_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Sword,Shield/Loop/Bare.png",
-      "key": "Effects_Walk_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Sword,Shield/Brake/Bare.png",
-      "key": "Effects_Walk_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Bow/Bare.png",
-      "key": "Effects_Walk_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Bow/Loop/Bare.png",
-      "key": "Effects_Walk_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Bow/Brake/Bare.png",
-      "key": "Effects_Walk_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Staff/Bare.png",
-      "key": "Effects_Walk_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Staff/Loop/Bare.png",
-      "key": "Effects_Walk_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Walk/Staff/Brake/Bare.png",
-      "key": "Effects_Walk_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Jump/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Jump/Bare.png",
       "key": "Effects_Jump_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Jump/Bare/Bare.png",
-      "key": "Effects_Jump_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Jump/Sword,Shield/Bare.png",
-      "key": "Effects_Jump_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Jump/Sword/Bare.png",
-      "key": "Effects_Jump_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Jump/Bow/Bare.png",
-      "key": "Effects_Jump_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Jump/Staff/Bare.png",
-      "key": "Effects_Jump_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/ShieldWalk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/ShieldWalk/Bare.png",
       "key": "Effects_ShieldWalk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/ShieldWalk/Shield/Bare.png",
-      "key": "Effects_ShieldWalk_Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/ShieldWalk/Sword/Bare.png",
-      "key": "Effects_ShieldWalk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Run/Bare.png",
       "key": "Effects_Run_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Run/Bare/Bare.png",
-      "key": "Effects_Run_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Run/Loop/Bare.png",
+      "key": "Effects_Run_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Run/Bare/Loop/Bare.png",
-      "key": "Effects_Run_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Run/Brake/Bare.png",
+      "key": "Effects_Run_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Run/Bare/Brake/Bare.png",
-      "key": "Effects_Run_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Sword/Bare.png",
-      "key": "Effects_Run_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Sword/Loop/Bare.png",
-      "key": "Effects_Run_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Sword/Brake/Bare.png",
-      "key": "Effects_Run_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Sword,Shield/Bare.png",
-      "key": "Effects_Run_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Sword,Shield/Loop/Bare.png",
-      "key": "Effects_Run_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Sword,Shield/Brake/Bare.png",
-      "key": "Effects_Run_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Bow/Bare.png",
-      "key": "Effects_Run_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Bow/Loop/Bare.png",
-      "key": "Effects_Run_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Bow/Brake/Bare.png",
-      "key": "Effects_Run_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Staff/Bare.png",
-      "key": "Effects_Run_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Staff/Loop/Bare.png",
-      "key": "Effects_Run_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Run/Staff/Brake/Bare.png",
-      "key": "Effects_Run_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Death/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Death/Bare.png",
       "key": "Effects_Death_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Death/Bare/Bare.png",
-      "key": "Effects_Death_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Death/Sword,Shield/Bare.png",
-      "key": "Effects_Death_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Death/Sword/Bare.png",
-      "key": "Effects_Death_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Death/Bow/Bare.png",
-      "key": "Effects_Death_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Death/Staff/Bare.png",
-      "key": "Effects_Death_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Hurt/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Hurt/Bare.png",
       "key": "Effects_Hurt_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Hurt/Bare/Bare.png",
-      "key": "Effects_Hurt_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/MeleeAttack/Bare.png",
+      "key": "Effects_MeleeAttack_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Hurt/Sword/Bare.png",
-      "key": "Effects_Hurt_Sword_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/MeleeAttack/Swipe/Bare.png",
+      "key": "Effects_MeleeAttack_Swipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Hurt/Sword,Shield/Bare.png",
-      "key": "Effects_Hurt_Sword,Shield_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "Effects_MeleeAttack_2ndSwipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Hurt/Bow/Bare.png",
-      "key": "Effects_Hurt_Bow_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/MeleeAttack/Stab/Bare.png",
+      "key": "Effects_MeleeAttack_Stab_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/Hurt/Staff/Bare.png",
-      "key": "Effects_Hurt_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Effects/Bare.png",
-      "key": "Effects_Effects_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Effects/Swipe/Bare.png",
-      "key": "Effects_Effects_Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Effects/2nd Swipe/Bare.png",
-      "key": "Effects_Effects_2nd Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/Effects/Stab/Bare.png",
-      "key": "Effects_Effects_Stab_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/Effects/BowShoot/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/BowShoot/Bare.png",
       "key": "Effects_BowShoot_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/BowShoot/Raise/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/BowShoot/Raise/Bare.png",
       "key": "Effects_BowShoot_Raise_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/BowShoot/Repeat/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/BowShoot/Repeat/Bare.png",
       "key": "Effects_BowShoot_Repeat_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/BowShoot/FollowThrough/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/BowShoot/FollowThrough/Bare.png",
       "key": "Effects_BowShoot_FollowThrough_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Effects/SpellCast/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/SpellCast/Bare.png",
       "key": "Effects_SpellCast_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Idle/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Idle/Bare.png",
       "key": "FrontArm_Idle_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Idle/Bare/Bare.png",
-      "key": "FrontArm_Idle_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Idle/Sword/Bare.png",
-      "key": "FrontArm_Idle_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Idle/Sword,Shield/Bare.png",
-      "key": "FrontArm_Idle_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Idle/Bow/Bare.png",
-      "key": "FrontArm_Idle_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Idle/Staff/Bare.png",
-      "key": "FrontArm_Idle_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Walk/Bare.png",
       "key": "FrontArm_Walk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bare/Bare.png",
-      "key": "FrontArm_Walk_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Walk/Loop/Bare.png",
+      "key": "FrontArm_Walk_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bare/Loop/Bare.png",
-      "key": "FrontArm_Walk_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Walk/Brake/Bare.png",
+      "key": "FrontArm_Walk_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bare/Brake/Bare.png",
-      "key": "FrontArm_Walk_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Sword/Bare.png",
-      "key": "FrontArm_Walk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Sword/Loop/Bare.png",
-      "key": "FrontArm_Walk_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Sword/Brake/Bare.png",
-      "key": "FrontArm_Walk_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Sword,Shield/Bare.png",
-      "key": "FrontArm_Walk_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Sword,Shield/Loop/Bare.png",
-      "key": "FrontArm_Walk_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Sword,Shield/Brake/Bare.png",
-      "key": "FrontArm_Walk_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bow/Bare.png",
-      "key": "FrontArm_Walk_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bow/Loop/Bare.png",
-      "key": "FrontArm_Walk_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Bow/Brake/Bare.png",
-      "key": "FrontArm_Walk_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Staff/Bare.png",
-      "key": "FrontArm_Walk_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Staff/Loop/Bare.png",
-      "key": "FrontArm_Walk_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Walk/Staff/Brake/Bare.png",
-      "key": "FrontArm_Walk_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Jump/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Jump/Bare.png",
       "key": "FrontArm_Jump_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Jump/Bare/Bare.png",
-      "key": "FrontArm_Jump_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Jump/Sword,Shield/Bare.png",
-      "key": "FrontArm_Jump_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Jump/Sword/Bare.png",
-      "key": "FrontArm_Jump_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Jump/Bow/Bare.png",
-      "key": "FrontArm_Jump_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Jump/Staff/Bare.png",
-      "key": "FrontArm_Jump_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/ShieldWalk/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/ShieldWalk/Bare.png",
       "key": "FrontArm_ShieldWalk_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/ShieldWalk/Shield/Bare.png",
-      "key": "FrontArm_ShieldWalk_Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/ShieldWalk/Sword/Bare.png",
-      "key": "FrontArm_ShieldWalk_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Run/Bare.png",
       "key": "FrontArm_Run_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bare/Bare.png",
-      "key": "FrontArm_Run_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Run/Loop/Bare.png",
+      "key": "FrontArm_Run_Loop_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bare/Loop/Bare.png",
-      "key": "FrontArm_Run_Bare_Loop_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Run/Brake/Bare.png",
+      "key": "FrontArm_Run_Brake_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bare/Brake/Bare.png",
-      "key": "FrontArm_Run_Bare_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Sword/Bare.png",
-      "key": "FrontArm_Run_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Sword/Loop/Bare.png",
-      "key": "FrontArm_Run_Sword_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Sword/Brake/Bare.png",
-      "key": "FrontArm_Run_Sword_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Sword,Shield/Bare.png",
-      "key": "FrontArm_Run_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Sword,Shield/Loop/Bare.png",
-      "key": "FrontArm_Run_Sword,Shield_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Sword,Shield/Brake/Bare.png",
-      "key": "FrontArm_Run_Sword,Shield_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bow/Bare.png",
-      "key": "FrontArm_Run_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bow/Loop/Bare.png",
-      "key": "FrontArm_Run_Bow_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Bow/Brake/Bare.png",
-      "key": "FrontArm_Run_Bow_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Staff/Bare.png",
-      "key": "FrontArm_Run_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Staff/Loop/Bare.png",
-      "key": "FrontArm_Run_Staff_Loop_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Run/Staff/Brake/Bare.png",
-      "key": "FrontArm_Run_Staff_Brake_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Death/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Death/Bare.png",
       "key": "FrontArm_Death_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Death/Bare/Bare.png",
-      "key": "FrontArm_Death_Bare_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Death/Sword,Shield/Bare.png",
-      "key": "FrontArm_Death_Sword,Shield_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Death/Sword/Bare.png",
-      "key": "FrontArm_Death_Sword_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Death/Bow/Bare.png",
-      "key": "FrontArm_Death_Bow_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Death/Staff/Bare.png",
-      "key": "FrontArm_Death_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Hurt/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/Hurt/Bare.png",
       "key": "FrontArm_Hurt_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Hurt/Bare/Bare.png",
-      "key": "FrontArm_Hurt_Bare_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/MeleeAttack/Bare.png",
+      "key": "FrontArm_MeleeAttack_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Hurt/Sword/Bare.png",
-      "key": "FrontArm_Hurt_Sword_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/MeleeAttack/Swipe/Bare.png",
+      "key": "FrontArm_MeleeAttack_Swipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Hurt/Sword,Shield/Bare.png",
-      "key": "FrontArm_Hurt_Sword,Shield_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "FrontArm_MeleeAttack_2ndSwipe_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Hurt/Bow/Bare.png",
-      "key": "FrontArm_Hurt_Bow_Bare"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/MeleeAttack/Stab/Bare.png",
+      "key": "FrontArm_MeleeAttack_Stab_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/Hurt/Staff/Bare.png",
-      "key": "FrontArm_Hurt_Staff_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Effects/Bare.png",
-      "key": "FrontArm_Effects_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Effects/Swipe/Bare.png",
-      "key": "FrontArm_Effects_Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Effects/2nd Swipe/Bare.png",
-      "key": "FrontArm_Effects_2nd Swipe_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/Effects/Stab/Bare.png",
-      "key": "FrontArm_Effects_Stab_Bare"
-    },
-    {
-      "path": "Assets/Resources/Data/FrontArm/BowShoot/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/BowShoot/Bare.png",
       "key": "FrontArm_BowShoot_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/BowShoot/Raise/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/BowShoot/Raise/Bare.png",
       "key": "FrontArm_BowShoot_Raise_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/BowShoot/Repeat/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/BowShoot/Repeat/Bare.png",
       "key": "FrontArm_BowShoot_Repeat_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/BowShoot/FollowThrough/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/BowShoot/FollowThrough/Bare.png",
       "key": "FrontArm_BowShoot_FollowThrough_Bare"
     },
     {
-      "path": "Assets/Resources/Data/FrontArm/SpellCast/Bare.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/FrontArm/SpellCast/Bare.png",
       "key": "FrontArm_SpellCast_Bare"
     },
     {
-      "path": "Assets/Resources/Data/Head/Idle/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Idle/Bare.png",
+      "key": "Weapon_Idle_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Bare.png",
+      "key": "Weapon_Walk_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Loop/Bare.png",
+      "key": "Weapon_Walk_Loop_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Brake/Bare.png",
+      "key": "Weapon_Walk_Brake_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Jump/Bare.png",
+      "key": "Weapon_Jump_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/ShieldWalk/Bare.png",
+      "key": "Weapon_ShieldWalk_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Bare.png",
+      "key": "Weapon_Run_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Loop/Bare.png",
+      "key": "Weapon_Run_Loop_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Brake/Bare.png",
+      "key": "Weapon_Run_Brake_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Death/Bare.png",
+      "key": "Weapon_Death_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Hurt/Bare.png",
+      "key": "Weapon_Hurt_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Bare.png",
+      "key": "Weapon_MeleeAttack_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Swipe/Bare.png",
+      "key": "Weapon_MeleeAttack_Swipe_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/2ndSwipe/Bare.png",
+      "key": "Weapon_MeleeAttack_2ndSwipe_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Stab/Bare.png",
+      "key": "Weapon_MeleeAttack_Stab_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Bare.png",
+      "key": "Weapon_BowShoot_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Raise/Bare.png",
+      "key": "Weapon_BowShoot_Raise_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Repeat/Bare.png",
+      "key": "Weapon_BowShoot_Repeat_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/FollowThrough/Bare.png",
+      "key": "Weapon_BowShoot_FollowThrough_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/SpellCast/Bare.png",
+      "key": "Weapon_SpellCast_Bare"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Idle/Sword.png",
+      "key": "Weapon_Idle_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Sword.png",
+      "key": "Weapon_Walk_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Loop/Sword.png",
+      "key": "Weapon_Walk_Loop_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Brake/Sword.png",
+      "key": "Weapon_Walk_Brake_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Jump/Sword.png",
+      "key": "Weapon_Jump_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/ShieldWalk/Sword.png",
+      "key": "Weapon_ShieldWalk_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Sword.png",
+      "key": "Weapon_Run_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Loop/Sword.png",
+      "key": "Weapon_Run_Loop_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Brake/Sword.png",
+      "key": "Weapon_Run_Brake_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Death/Sword.png",
+      "key": "Weapon_Death_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Hurt/Sword.png",
+      "key": "Weapon_Hurt_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Sword.png",
+      "key": "Weapon_MeleeAttack_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Swipe/Sword.png",
+      "key": "Weapon_MeleeAttack_Swipe_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/2ndSwipe/Sword.png",
+      "key": "Weapon_MeleeAttack_2ndSwipe_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Stab/Sword.png",
+      "key": "Weapon_MeleeAttack_Stab_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Sword.png",
+      "key": "Weapon_BowShoot_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Raise/Sword.png",
+      "key": "Weapon_BowShoot_Raise_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Repeat/Sword.png",
+      "key": "Weapon_BowShoot_Repeat_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/FollowThrough/Sword.png",
+      "key": "Weapon_BowShoot_FollowThrough_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/SpellCast/Sword.png",
+      "key": "Weapon_SpellCast_Sword"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Idle/Staff.png",
+      "key": "Weapon_Idle_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Staff.png",
+      "key": "Weapon_Walk_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Loop/Staff.png",
+      "key": "Weapon_Walk_Loop_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Brake/Staff.png",
+      "key": "Weapon_Walk_Brake_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Jump/Staff.png",
+      "key": "Weapon_Jump_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/ShieldWalk/Staff.png",
+      "key": "Weapon_ShieldWalk_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Staff.png",
+      "key": "Weapon_Run_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Loop/Staff.png",
+      "key": "Weapon_Run_Loop_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Brake/Staff.png",
+      "key": "Weapon_Run_Brake_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Death/Staff.png",
+      "key": "Weapon_Death_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Hurt/Staff.png",
+      "key": "Weapon_Hurt_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Staff.png",
+      "key": "Weapon_MeleeAttack_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Swipe/Staff.png",
+      "key": "Weapon_MeleeAttack_Swipe_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/2ndSwipe/Staff.png",
+      "key": "Weapon_MeleeAttack_2ndSwipe_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Stab/Staff.png",
+      "key": "Weapon_MeleeAttack_Stab_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Staff.png",
+      "key": "Weapon_BowShoot_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Raise/Staff.png",
+      "key": "Weapon_BowShoot_Raise_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Repeat/Staff.png",
+      "key": "Weapon_BowShoot_Repeat_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/FollowThrough/Staff.png",
+      "key": "Weapon_BowShoot_FollowThrough_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/SpellCast/Staff.png",
+      "key": "Weapon_SpellCast_Staff"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Idle/Bow.png",
+      "key": "Weapon_Idle_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Bow.png",
+      "key": "Weapon_Walk_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Loop/Bow.png",
+      "key": "Weapon_Walk_Loop_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Walk/Brake/Bow.png",
+      "key": "Weapon_Walk_Brake_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Jump/Bow.png",
+      "key": "Weapon_Jump_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/ShieldWalk/Bow.png",
+      "key": "Weapon_ShieldWalk_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Bow.png",
+      "key": "Weapon_Run_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Loop/Bow.png",
+      "key": "Weapon_Run_Loop_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Run/Brake/Bow.png",
+      "key": "Weapon_Run_Brake_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Death/Bow.png",
+      "key": "Weapon_Death_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/Hurt/Bow.png",
+      "key": "Weapon_Hurt_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Bow.png",
+      "key": "Weapon_MeleeAttack_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Swipe/Bow.png",
+      "key": "Weapon_MeleeAttack_Swipe_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/2ndSwipe/Bow.png",
+      "key": "Weapon_MeleeAttack_2ndSwipe_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/MeleeAttack/Stab/Bow.png",
+      "key": "Weapon_MeleeAttack_Stab_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Bow.png",
+      "key": "Weapon_BowShoot_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Raise/Bow.png",
+      "key": "Weapon_BowShoot_Raise_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/Repeat/Bow.png",
+      "key": "Weapon_BowShoot_Repeat_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/BowShoot/FollowThrough/Bow.png",
+      "key": "Weapon_BowShoot_FollowThrough_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Weapon/SpellCast/Bow.png",
+      "key": "Weapon_SpellCast_Bow"
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Idle/Bald.png",
       "key": "Head_Idle_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Idle/Bare/Bald.png",
-      "key": "Head_Idle_Bare_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Sword/Bald.png",
-      "key": "Head_Idle_Sword_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Sword,Shield/Bald.png",
-      "key": "Head_Idle_Sword,Shield_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Bow/Bald.png",
-      "key": "Head_Idle_Bow_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Staff/Bald.png",
-      "key": "Head_Idle_Staff_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Walk/Bald.png",
       "key": "Head_Walk_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Walk/Bare/Bald.png",
-      "key": "Head_Walk_Bare_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Walk/Loop/Bald.png",
+      "key": "Head_Walk_Loop_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Walk/Bare/Loop/Bald.png",
-      "key": "Head_Walk_Bare_Loop_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Walk/Brake/Bald.png",
+      "key": "Head_Walk_Brake_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Walk/Bare/Brake/Bald.png",
-      "key": "Head_Walk_Bare_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword/Bald.png",
-      "key": "Head_Walk_Sword_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword/Loop/Bald.png",
-      "key": "Head_Walk_Sword_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword/Brake/Bald.png",
-      "key": "Head_Walk_Sword_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword,Shield/Bald.png",
-      "key": "Head_Walk_Sword,Shield_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword,Shield/Loop/Bald.png",
-      "key": "Head_Walk_Sword,Shield_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword,Shield/Brake/Bald.png",
-      "key": "Head_Walk_Sword,Shield_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bow/Bald.png",
-      "key": "Head_Walk_Bow_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bow/Loop/Bald.png",
-      "key": "Head_Walk_Bow_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bow/Brake/Bald.png",
-      "key": "Head_Walk_Bow_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Staff/Bald.png",
-      "key": "Head_Walk_Staff_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Staff/Loop/Bald.png",
-      "key": "Head_Walk_Staff_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Staff/Brake/Bald.png",
-      "key": "Head_Walk_Staff_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Jump/Bald.png",
       "key": "Head_Jump_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Jump/Bare/Bald.png",
-      "key": "Head_Jump_Bare_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Sword,Shield/Bald.png",
-      "key": "Head_Jump_Sword,Shield_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Sword/Bald.png",
-      "key": "Head_Jump_Sword_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Bow/Bald.png",
-      "key": "Head_Jump_Bow_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Staff/Bald.png",
-      "key": "Head_Jump_Staff_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/ShieldWalk/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/ShieldWalk/Bald.png",
       "key": "Head_ShieldWalk_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/ShieldWalk/Shield/Bald.png",
-      "key": "Head_ShieldWalk_Shield_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/ShieldWalk/Sword/Bald.png",
-      "key": "Head_ShieldWalk_Sword_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Bald.png",
       "key": "Head_Run_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Run/Bare/Bald.png",
-      "key": "Head_Run_Bare_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Loop/Bald.png",
+      "key": "Head_Run_Loop_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Run/Bare/Loop/Bald.png",
-      "key": "Head_Run_Bare_Loop_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Brake/Bald.png",
+      "key": "Head_Run_Brake_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Run/Bare/Brake/Bald.png",
-      "key": "Head_Run_Bare_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword/Bald.png",
-      "key": "Head_Run_Sword_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword/Loop/Bald.png",
-      "key": "Head_Run_Sword_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword/Brake/Bald.png",
-      "key": "Head_Run_Sword_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword,Shield/Bald.png",
-      "key": "Head_Run_Sword,Shield_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword,Shield/Loop/Bald.png",
-      "key": "Head_Run_Sword,Shield_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword,Shield/Brake/Bald.png",
-      "key": "Head_Run_Sword,Shield_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bow/Bald.png",
-      "key": "Head_Run_Bow_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bow/Loop/Bald.png",
-      "key": "Head_Run_Bow_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bow/Brake/Bald.png",
-      "key": "Head_Run_Bow_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Staff/Bald.png",
-      "key": "Head_Run_Staff_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Staff/Loop/Bald.png",
-      "key": "Head_Run_Staff_Loop_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Staff/Brake/Bald.png",
-      "key": "Head_Run_Staff_Brake_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Death/Bald.png",
       "key": "Head_Death_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Death/Bare/Bald.png",
-      "key": "Head_Death_Bare_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Sword,Shield/Bald.png",
-      "key": "Head_Death_Sword,Shield_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Sword/Bald.png",
-      "key": "Head_Death_Sword_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Bow/Bald.png",
-      "key": "Head_Death_Bow_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Staff/Bald.png",
-      "key": "Head_Death_Staff_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Hurt/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Hurt/Bald.png",
       "key": "Head_Hurt_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Bare/Bald.png",
-      "key": "Head_Hurt_Bare_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/Bald.png",
+      "key": "Head_MeleeAttack_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Sword/Bald.png",
-      "key": "Head_Hurt_Sword_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/Swipe/Bald.png",
+      "key": "Head_MeleeAttack_Swipe_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Sword,Shield/Bald.png",
-      "key": "Head_Hurt_Sword,Shield_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/2ndSwipe/Bald.png",
+      "key": "Head_MeleeAttack_2ndSwipe_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Bow/Bald.png",
-      "key": "Head_Hurt_Bow_Bald"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/Stab/Bald.png",
+      "key": "Head_MeleeAttack_Stab_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Staff/Bald.png",
-      "key": "Head_Hurt_Staff_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/Bald.png",
-      "key": "Head_Effects_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/Swipe/Bald.png",
-      "key": "Head_Effects_Swipe_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/2nd Swipe/Bald.png",
-      "key": "Head_Effects_2nd Swipe_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/Stab/Bald.png",
-      "key": "Head_Effects_Stab_Bald"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/BowShoot/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/Bald.png",
       "key": "Head_BowShoot_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/BowShoot/Raise/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/Raise/Bald.png",
       "key": "Head_BowShoot_Raise_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/BowShoot/Repeat/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/Repeat/Bald.png",
       "key": "Head_BowShoot_Repeat_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/BowShoot/FollowThrough/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/FollowThrough/Bald.png",
       "key": "Head_BowShoot_FollowThrough_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/SpellCast/Bald.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/SpellCast/Bald.png",
       "key": "Head_SpellCast_Bald"
     },
     {
-      "path": "Assets/Resources/Data/Head/Idle/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Idle/RedHair.png",
       "key": "Head_Idle_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Idle/Bare/RedHair.png",
-      "key": "Head_Idle_Bare_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Sword/RedHair.png",
-      "key": "Head_Idle_Sword_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Sword,Shield/RedHair.png",
-      "key": "Head_Idle_Sword,Shield_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Bow/RedHair.png",
-      "key": "Head_Idle_Bow_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Idle/Staff/RedHair.png",
-      "key": "Head_Idle_Staff_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Walk/RedHair.png",
       "key": "Head_Walk_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Walk/Bare/RedHair.png",
-      "key": "Head_Walk_Bare_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Walk/Loop/RedHair.png",
+      "key": "Head_Walk_Loop_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Walk/Bare/Loop/RedHair.png",
-      "key": "Head_Walk_Bare_Loop_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Walk/Brake/RedHair.png",
+      "key": "Head_Walk_Brake_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Walk/Bare/Brake/RedHair.png",
-      "key": "Head_Walk_Bare_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword/RedHair.png",
-      "key": "Head_Walk_Sword_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword/Loop/RedHair.png",
-      "key": "Head_Walk_Sword_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword/Brake/RedHair.png",
-      "key": "Head_Walk_Sword_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword,Shield/RedHair.png",
-      "key": "Head_Walk_Sword,Shield_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword,Shield/Loop/RedHair.png",
-      "key": "Head_Walk_Sword,Shield_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Sword,Shield/Brake/RedHair.png",
-      "key": "Head_Walk_Sword,Shield_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bow/RedHair.png",
-      "key": "Head_Walk_Bow_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bow/Loop/RedHair.png",
-      "key": "Head_Walk_Bow_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Bow/Brake/RedHair.png",
-      "key": "Head_Walk_Bow_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Staff/RedHair.png",
-      "key": "Head_Walk_Staff_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Staff/Loop/RedHair.png",
-      "key": "Head_Walk_Staff_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Walk/Staff/Brake/RedHair.png",
-      "key": "Head_Walk_Staff_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Jump/RedHair.png",
       "key": "Head_Jump_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Jump/Bare/RedHair.png",
-      "key": "Head_Jump_Bare_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Sword,Shield/RedHair.png",
-      "key": "Head_Jump_Sword,Shield_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Sword/RedHair.png",
-      "key": "Head_Jump_Sword_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Bow/RedHair.png",
-      "key": "Head_Jump_Bow_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Jump/Staff/RedHair.png",
-      "key": "Head_Jump_Staff_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/ShieldWalk/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/ShieldWalk/RedHair.png",
       "key": "Head_ShieldWalk_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/ShieldWalk/Shield/RedHair.png",
-      "key": "Head_ShieldWalk_Shield_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/ShieldWalk/Sword/RedHair.png",
-      "key": "Head_ShieldWalk_Sword_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/RedHair.png",
       "key": "Head_Run_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Run/Bare/RedHair.png",
-      "key": "Head_Run_Bare_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Loop/RedHair.png",
+      "key": "Head_Run_Loop_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Run/Bare/Loop/RedHair.png",
-      "key": "Head_Run_Bare_Loop_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Brake/RedHair.png",
+      "key": "Head_Run_Brake_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Run/Bare/Brake/RedHair.png",
-      "key": "Head_Run_Bare_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword/RedHair.png",
-      "key": "Head_Run_Sword_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword/Loop/RedHair.png",
-      "key": "Head_Run_Sword_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword/Brake/RedHair.png",
-      "key": "Head_Run_Sword_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword,Shield/RedHair.png",
-      "key": "Head_Run_Sword,Shield_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword,Shield/Loop/RedHair.png",
-      "key": "Head_Run_Sword,Shield_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Sword,Shield/Brake/RedHair.png",
-      "key": "Head_Run_Sword,Shield_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bow/RedHair.png",
-      "key": "Head_Run_Bow_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bow/Loop/RedHair.png",
-      "key": "Head_Run_Bow_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Bow/Brake/RedHair.png",
-      "key": "Head_Run_Bow_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Staff/RedHair.png",
-      "key": "Head_Run_Staff_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Staff/Loop/RedHair.png",
-      "key": "Head_Run_Staff_Loop_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Run/Staff/Brake/RedHair.png",
-      "key": "Head_Run_Staff_Brake_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Death/RedHair.png",
       "key": "Head_Death_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Death/Bare/RedHair.png",
-      "key": "Head_Death_Bare_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Sword,Shield/RedHair.png",
-      "key": "Head_Death_Sword,Shield_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Sword/RedHair.png",
-      "key": "Head_Death_Sword_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Bow/RedHair.png",
-      "key": "Head_Death_Bow_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Death/Staff/RedHair.png",
-      "key": "Head_Death_Staff_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Hurt/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Hurt/RedHair.png",
       "key": "Head_Hurt_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Bare/RedHair.png",
-      "key": "Head_Hurt_Bare_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/RedHair.png",
+      "key": "Head_MeleeAttack_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Sword/RedHair.png",
-      "key": "Head_Hurt_Sword_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/Swipe/RedHair.png",
+      "key": "Head_MeleeAttack_Swipe_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Sword,Shield/RedHair.png",
-      "key": "Head_Hurt_Sword,Shield_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/2ndSwipe/RedHair.png",
+      "key": "Head_MeleeAttack_2ndSwipe_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Bow/RedHair.png",
-      "key": "Head_Hurt_Bow_RedHair"
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/MeleeAttack/Stab/RedHair.png",
+      "key": "Head_MeleeAttack_Stab_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/Hurt/Staff/RedHair.png",
-      "key": "Head_Hurt_Staff_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/RedHair.png",
-      "key": "Head_Effects_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/Swipe/RedHair.png",
-      "key": "Head_Effects_Swipe_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/2nd Swipe/RedHair.png",
-      "key": "Head_Effects_2nd Swipe_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/Effects/Stab/RedHair.png",
-      "key": "Head_Effects_Stab_RedHair"
-    },
-    {
-      "path": "Assets/Resources/Data/Head/BowShoot/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/RedHair.png",
       "key": "Head_BowShoot_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/BowShoot/Raise/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/Raise/RedHair.png",
       "key": "Head_BowShoot_Raise_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/BowShoot/Repeat/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/Repeat/RedHair.png",
       "key": "Head_BowShoot_Repeat_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/BowShoot/FollowThrough/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/BowShoot/FollowThrough/RedHair.png",
       "key": "Head_BowShoot_FollowThrough_RedHair"
     },
     {
-      "path": "Assets/Resources/Data/Head/SpellCast/RedHair.png",
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/SpellCast/RedHair.png",
       "key": "Head_SpellCast_RedHair"
     }
   ]
