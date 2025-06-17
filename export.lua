@@ -38,7 +38,6 @@ end
 local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, groupPrefix)
   for _, layer in ipairs(root_layer.layers) do
     if layer.isGroup then
-      -- Recursively export nested groups
       local prevVis = layer.isVisible
       layer.isVisible = true
       local newPrefix = groupPrefix .. layer.name .. group_sep
@@ -47,11 +46,9 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
     elseif root_layer ~= sprite then
       layer.isVisible = true
 
-      -- Construct export folder
       local baseFolder = pathTemplate:gsub("{layergroups}", groupPrefix)
       os.execute('mkdir "' .. Dirname(baseFolder) .. '"')
 
-      -- Define sprite sheet layout
       local sheettype = SpriteSheetType.HORIZONTAL
       if data.tagsplit == "To Rows" then
         sheettype = SpriteSheetType.ROWS
@@ -59,7 +56,6 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
         sheettype = SpriteSheetType.COLUMNS
       end
 
-      -- Export for each tag
       if #sprite.tags > 0 then
         for _, tag in ipairs(sprite.tags) do
           local tagInfo = splitTagToFolder(tag.name)
@@ -69,7 +65,6 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
 
           os.execute('mkdir "' .. Dirname(fullPath) .. '"')
 
-          -- Export sprite sheet for this tag/layer
           app.command.ExportSpriteSheet{
             ui=false, askOverwrite=false,
             type=sheettype, columns=0, rows=0,
@@ -86,13 +81,17 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
 
           n_layers = n_layers + 1
 
-          -- Build metadata key
           local meta_key = (groupPrefix .. tagInfo.joinedTag .. "_" .. layer.name):gsub("[/\\]", "_")
-          fullPath = fullPath:gsub("[/\\]+", "/") -- Normalize path
-          table.insert(meta_entries, meta_key .. " : " .. fullPath)
+          fullPath = fullPath:gsub("[/\\]+", "/")
+
+          table.insert(meta_entries, {
+  key = meta_key,
+  path = fullPath,
+  frames = tag.toFrame.frameNumber - tag.fromFrame.frameNumber + 1
+})
+
         end
       else
-        -- Export without tags
         local fullPath = baseFolder .. layer.name .. "." .. data.format
         app.command.ExportSpriteSheet{
           ui=false, askOverwrite=false,
@@ -112,7 +111,12 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
 
         local meta_key = (groupPrefix .. layer.name):gsub("[/\\]", "_")
         fullPath = fullPath:gsub("[/\\]+", "/")
-        table.insert(meta_entries, meta_key .. " : " .. fullPath)
+
+        table.insert(meta_entries, {
+          key = meta_key,
+          path = fullPath,
+          frames = #sprite.frames
+        })
       end
 
       layer.isVisible = false
@@ -146,7 +150,6 @@ dlg:button{id = "ok", text = "Export"}
 dlg:button{id = "cancel", text = "Cancel"}
 dlg:show()
 
--- Handle dialog cancel
 if not dlg.data.ok then return 0 end
 
 -- Prepare export
@@ -171,25 +174,23 @@ if dlg.data.save then
   Sprite:saveAs(dlg.data.directory)
 end
 
--- Export meta.json in JsonUtility format
+-- Export meta.json with frame count
 local metafile = io.open(output_path .. "/meta.json", "w")
 metafile:write('{\n  "entries": [\n')
 
 for i, entry in ipairs(meta_entries) do
-  local key, path = entry:match("^(.-)%s*:%s*(.+)$")
-  path = path:gsub("\\", "/")
+  local path = entry.path:gsub("\\", "/")
+  local relative_path = path:match(".*(Assets/.*)") or path
 
-  local relative_path = path:match(".*(Assets/.*)")
-  if not relative_path then relative_path = path end
-
-  metafile:write(string.format('    {\n      "path": "%s",\n      "key": "%s"\n    }%s\n',
-    relative_path, key, i < #meta_entries and "," or ""))
+  metafile:write(string.format(
+    '    {\n      "path": "%s",\n      "key": "%s",\n      "frames": %d\n    }%s\n',
+    relative_path, entry.key, entry.frames,
+    i < #meta_entries and "," or ""
+  ))
 end
 
 metafile:write("  ]\n}\n")
 metafile:close()
-
-
 
 -- Success dialog
 MsgDialog("Success!", "Exported " .. n_layers .. " layers. Metadata saved to meta.json"):show()
