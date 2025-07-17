@@ -21,20 +21,44 @@ if err ~= 0 then return err end
 local n_layers = 0
 local meta_entries = {}
 
--- Splits a tag name like "Idle_Bow_Bare" into:
--- { folderPath = "Idle/Bow/Bare/", joinedTag = "Idle_Bow_Bare" }
 local function splitTagToFolder(tagname)
   local parts = {}
   for part in string.gmatch(tagname, "[^_]+") do
     table.insert(parts, part)
   end
   return {
-    folderPath = table.concat(parts, "/") .. "/", -- folder structure
-    joinedTag = table.concat(parts, "_")          -- key format
+    folderPath = table.concat(parts, "/") .. "/",
+    joinedTag = table.concat(parts, "_"),
+    taglev2 = parts[2] or ""
   }
 end
 
--- Recursive layer exporter
+-- Get all unique hex colors from the layer (non-transparent)
+local function getUsedColors(layer)
+  local colorSet = {}
+  for _, cel in ipairs(layer.cels) do
+    if cel.image then
+      local img = cel.image
+      for y = 0, img.height - 1 do
+        for x = 0, img.width - 1 do
+          local raw = img:getPixel(x, y)
+          local rgba = Color(raw)
+          if rgba.alpha > 0 then
+            local hex = string.format("#%02X%02X%02X", rgba.red, rgba.green, rgba.blue)
+            colorSet[hex] = true
+          end
+        end
+      end
+    end
+  end
+
+  local colorList = {}
+  for hex, _ in pairs(colorSet) do
+    table.insert(colorList, hex)
+  end
+  return colorList
+end
+
 local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, groupPrefix)
   for _, layer in ipairs(root_layer.layers) do
     if layer.isGroup then
@@ -55,6 +79,8 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
       elseif data.tagsplit == "To Columns" then
         sheettype = SpriteSheetType.COLUMNS
       end
+
+      local layerColors = getUsedColors(layer)
 
       if #sprite.tags > 0 then
         for _, tag in ipairs(sprite.tags) do
@@ -83,13 +109,15 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
 
           local meta_key = (groupPrefix .. tagInfo.joinedTag .. "_" .. layer.name):gsub("[/\\]", "_")
           fullPath = fullPath:gsub("[/\\]+", "/")
+          local loop = (tagInfo.taglev2 == "Loop")
 
           table.insert(meta_entries, {
-  key = meta_key,
-  path = fullPath,
-  frames = tag.toFrame.frameNumber - tag.fromFrame.frameNumber + 1
-})
-
+            key = meta_key,
+            path = fullPath,
+            frames = tag.toFrame.frameNumber - tag.fromFrame.frameNumber + 1,
+            loop = loop,
+            colors = layerColors
+          })
         end
       else
         local fullPath = baseFolder .. layer.name .. "." .. data.format
@@ -115,7 +143,9 @@ local function exportLayers(sprite, root_layer, pathTemplate, group_sep, data, g
         table.insert(meta_entries, {
           key = meta_key,
           path = fullPath,
-          frames = #sprite.frames
+          frames = #sprite.frames,
+          loop = false,
+          colors = layerColors
         })
       end
 
@@ -152,7 +182,6 @@ dlg:show()
 
 if not dlg.data.ok then return 0 end
 
--- Prepare export
 local output_path = Dirname(dlg.data.directory)
 if not output_path then
   MsgDialog("Error", "No output directory specified."):show()
@@ -163,7 +192,6 @@ dlg.data.spritesheet = true
 local group_sep = "/"
 local pathTemplate = output_path .. "/" .. "{layergroups}/"
 
--- Perform actual export
 Sprite:resize(Sprite.width * dlg.data.scale, Sprite.height * dlg.data.scale)
 local layers_visibility_data = HideLayers(Sprite)
 exportLayers(Sprite, Sprite, pathTemplate, group_sep, dlg.data, "")
@@ -174,7 +202,7 @@ if dlg.data.save then
   Sprite:saveAs(dlg.data.directory)
 end
 
--- Export meta.json with frame count
+-- Export meta.json
 local metafile = io.open(output_path .. "/meta.json", "w")
 metafile:write('{\n  "entries": [\n')
 
@@ -182,9 +210,15 @@ for i, entry in ipairs(meta_entries) do
   local path = entry.path:gsub("\\", "/")
   local relative_path = path:match(".*(Assets/.*)") or path
 
+  local colorString = "["
+  for j, color in ipairs(entry.colors) do
+    colorString = colorString .. '"' .. color .. '"' .. (j < #entry.colors and ", " or "")
+  end
+  colorString = colorString .. "]"
+
   metafile:write(string.format(
-    '    {\n      "path": "%s",\n      "key": "%s",\n      "frames": %d\n    }%s\n',
-    relative_path, entry.key, entry.frames,
+    '    {\n      "path": "%s",\n      "key": "%s",\n      "frames": %d,\n      "loop": %s,\n      "colors": %s\n    }%s\n',
+    relative_path, entry.key, entry.frames, tostring(entry.loop), colorString,
     i < #meta_entries and "," or ""
   ))
 end
@@ -192,6 +226,5 @@ end
 metafile:write("  ]\n}\n")
 metafile:close()
 
--- Success dialog
-MsgDialog("Success!", "Exported " .. n_layers .. " layers. Metadata saved to meta.json"):show()
+MsgDialog("Success!", "Exported " .. n_layers .. " layers with color info."):show()
 return 0
