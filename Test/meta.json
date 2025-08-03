@@ -1,0 +1,1236 @@
+{
+  "entries": [
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Idle/Loop/Bare.png",
+      "key": "OffHand_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Start/Bare.png",
+      "key": "OffHand_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Loop/Bare.png",
+      "key": "OffHand_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/RunBare/Loop/Bare.png",
+      "key": "OffHand_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Brake/Bare.png",
+      "key": "OffHand_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Start/Bare.png",
+      "key": "OffHand_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Brake/Bare.png",
+      "key": "OffHand_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Hurt/Bare.png",
+      "key": "OffHand_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/SpellCast/Bare.png",
+      "key": "OffHand_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/Bow/Bare.png",
+      "key": "OffHand_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/MeleeSwipe/Bare.png",
+      "key": "OffHand_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Idle/Loop/Bow.png",
+      "key": "OffHand_Idle_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Start/Bow.png",
+      "key": "OffHand_Run_Start_Bow",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Loop/Bow.png",
+      "key": "OffHand_Run_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/RunBare/Loop/Bow.png",
+      "key": "OffHand_RunBare_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Brake/Bow.png",
+      "key": "OffHand_Run_Brake_Bow",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Start/Bow.png",
+      "key": "OffHand_Dash_Start_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Brake/Bow.png",
+      "key": "OffHand_Dash_Brake_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Hurt/Bow.png",
+      "key": "OffHand_Hurt_Bow",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/SpellCast/Bow.png",
+      "key": "OffHand_Attack_SpellCast_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/Bow/Bow.png",
+      "key": "OffHand_Attack_Bow_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/MeleeSwipe/Bow.png",
+      "key": "OffHand_Attack_MeleeSwipe_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#9B7E67", "#806A59"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Idle/Loop/Sword.png",
+      "key": "OffHand_Idle_Loop_Sword",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Start/Sword.png",
+      "key": "OffHand_Run_Start_Sword",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Loop/Sword.png",
+      "key": "OffHand_Run_Loop_Sword",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/RunBare/Loop/Sword.png",
+      "key": "OffHand_RunBare_Loop_Sword",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Brake/Sword.png",
+      "key": "OffHand_Run_Brake_Sword",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Start/Sword.png",
+      "key": "OffHand_Dash_Start_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Brake/Sword.png",
+      "key": "OffHand_Dash_Brake_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Hurt/Sword.png",
+      "key": "OffHand_Hurt_Sword",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/SpellCast/Sword.png",
+      "key": "OffHand_Attack_SpellCast_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/Bow/Sword.png",
+      "key": "OffHand_Attack_Bow_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/MeleeSwipe/Sword.png",
+      "key": "OffHand_Attack_MeleeSwipe_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#4D6573", "#8D7E49", "#6E5151", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Idle/Loop/Staff.png",
+      "key": "OffHand_Idle_Loop_Staff",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Start/Staff.png",
+      "key": "OffHand_Run_Start_Staff",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Loop/Staff.png",
+      "key": "OffHand_Run_Loop_Staff",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/RunBare/Loop/Staff.png",
+      "key": "OffHand_RunBare_Loop_Staff",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Run/Brake/Staff.png",
+      "key": "OffHand_Run_Brake_Staff",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Start/Staff.png",
+      "key": "OffHand_Dash_Start_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Dash/Brake/Staff.png",
+      "key": "OffHand_Dash_Brake_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Hurt/Staff.png",
+      "key": "OffHand_Hurt_Staff",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/SpellCast/Staff.png",
+      "key": "OffHand_Attack_SpellCast_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/Bow/Staff.png",
+      "key": "OffHand_Attack_Bow_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/OffHand/Attack/MeleeSwipe/Staff.png",
+      "key": "OffHand_Attack_MeleeSwipe_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#695151", "#ABCAD3", "#693B18", "#6C96A3", "#503B3B", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Idle/Loop/Bare.png",
+      "key": "Effects_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Run/Start/Bare.png",
+      "key": "Effects_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Run/Loop/Bare.png",
+      "key": "Effects_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/RunBare/Loop/Bare.png",
+      "key": "Effects_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Run/Brake/Bare.png",
+      "key": "Effects_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Dash/Start/Bare.png",
+      "key": "Effects_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Dash/Brake/Bare.png",
+      "key": "Effects_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Hurt/Bare.png",
+      "key": "Effects_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Attack/SpellCast/Bare.png",
+      "key": "Effects_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Attack/Bow/Bare.png",
+      "key": "Effects_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Effects/Attack/MeleeSwipe/Bare.png",
+      "key": "Effects_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Idle/Loop/Bow.png",
+      "key": "BowBackPack_Idle_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Run/Start/Bow.png",
+      "key": "BowBackPack_Run_Start_Bow",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Run/Loop/Bow.png",
+      "key": "BowBackPack_Run_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/RunBare/Loop/Bow.png",
+      "key": "BowBackPack_RunBare_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Run/Brake/Bow.png",
+      "key": "BowBackPack_Run_Brake_Bow",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Dash/Start/Bow.png",
+      "key": "BowBackPack_Dash_Start_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Dash/Brake/Bow.png",
+      "key": "BowBackPack_Dash_Brake_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Hurt/Bow.png",
+      "key": "BowBackPack_Hurt_Bow",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Attack/SpellCast/Bow.png",
+      "key": "BowBackPack_Attack_SpellCast_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Attack/Bow/Bow.png",
+      "key": "BowBackPack_Attack_Bow_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Attack/MeleeSwipe/Bow.png",
+      "key": "BowBackPack_Attack_MeleeSwipe_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#160E07", "#271E16", "#D3C7BD", "#7A583E", "#A19489", "#7A716A", "#DEDEDE"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Idle/Loop/Bare.png",
+      "key": "BowBackPack_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Run/Start/Bare.png",
+      "key": "BowBackPack_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Run/Loop/Bare.png",
+      "key": "BowBackPack_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/RunBare/Loop/Bare.png",
+      "key": "BowBackPack_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Run/Brake/Bare.png",
+      "key": "BowBackPack_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Dash/Start/Bare.png",
+      "key": "BowBackPack_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Dash/Brake/Bare.png",
+      "key": "BowBackPack_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Hurt/Bare.png",
+      "key": "BowBackPack_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Attack/SpellCast/Bare.png",
+      "key": "BowBackPack_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Attack/Bow/Bare.png",
+      "key": "BowBackPack_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/BowBackPack/Attack/MeleeSwipe/Bare.png",
+      "key": "BowBackPack_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Idle/Loop/Bare.png",
+      "key": "LeftHand_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Run/Start/Bare.png",
+      "key": "LeftHand_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Run/Loop/Bare.png",
+      "key": "LeftHand_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/RunBare/Loop/Bare.png",
+      "key": "LeftHand_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Run/Brake/Bare.png",
+      "key": "LeftHand_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Dash/Start/Bare.png",
+      "key": "LeftHand_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Dash/Brake/Bare.png",
+      "key": "LeftHand_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Hurt/Bare.png",
+      "key": "LeftHand_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Attack/SpellCast/Bare.png",
+      "key": "LeftHand_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Attack/Bow/Bare.png",
+      "key": "LeftHand_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/LeftHand/Attack/MeleeSwipe/Bare.png",
+      "key": "LeftHand_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Idle/Loop/Bare.png",
+      "key": "Legs_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Run/Start/Bare.png",
+      "key": "Legs_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Run/Loop/Bare.png",
+      "key": "Legs_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/RunBare/Loop/Bare.png",
+      "key": "Legs_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Run/Brake/Bare.png",
+      "key": "Legs_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Dash/Start/Bare.png",
+      "key": "Legs_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Dash/Brake/Bare.png",
+      "key": "Legs_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Hurt/Bare.png",
+      "key": "Legs_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Attack/SpellCast/Bare.png",
+      "key": "Legs_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Attack/Bow/Bare.png",
+      "key": "Legs_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Legs/Attack/MeleeSwipe/Bare.png",
+      "key": "Legs_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#544A4A", "#503B3B", "#BECAD1", "#3E3131", "#907474", "#A48A8A", "#000000", "#735959", "#434040", "#165171", "#6C828E", "#4D6573", "#9BADB7", "#025A8A", "#2076A6"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Idle/Loop/Bare.png",
+      "key": "Body_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Run/Start/Bare.png",
+      "key": "Body_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Run/Loop/Bare.png",
+      "key": "Body_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/RunBare/Loop/Bare.png",
+      "key": "Body_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Run/Brake/Bare.png",
+      "key": "Body_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Dash/Start/Bare.png",
+      "key": "Body_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Dash/Brake/Bare.png",
+      "key": "Body_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Hurt/Bare.png",
+      "key": "Body_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Attack/SpellCast/Bare.png",
+      "key": "Body_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Attack/Bow/Bare.png",
+      "key": "Body_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Body/Attack/MeleeSwipe/Bare.png",
+      "key": "Body_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#DBA599", "#000000", "#165171", "#E9D2BD", "#4D6573", "#9BADB7", "#025A8A", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Idle/Loop/Bare.png",
+      "key": "RightHand_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Run/Start/Bare.png",
+      "key": "RightHand_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Run/Loop/Bare.png",
+      "key": "RightHand_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/RunBare/Loop/Bare.png",
+      "key": "RightHand_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Run/Brake/Bare.png",
+      "key": "RightHand_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Dash/Start/Bare.png",
+      "key": "RightHand_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Dash/Brake/Bare.png",
+      "key": "RightHand_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Hurt/Bare.png",
+      "key": "RightHand_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Attack/SpellCast/Bare.png",
+      "key": "RightHand_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Attack/Bow/Bare.png",
+      "key": "RightHand_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/RightHand/Attack/MeleeSwipe/Bare.png",
+      "key": "RightHand_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#BECAD1", "#E9D2BD", "#000000", "#735959", "#907474", "#4D6573", "#9BADB7", "#DBA599", "#6C828E"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Idle/Loop/Bare.png",
+      "key": "Head_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Start/Bare.png",
+      "key": "Head_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Loop/Bare.png",
+      "key": "Head_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/RunBare/Loop/Bare.png",
+      "key": "Head_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Run/Brake/Bare.png",
+      "key": "Head_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Dash/Start/Bare.png",
+      "key": "Head_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Dash/Brake/Bare.png",
+      "key": "Head_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Hurt/Bare.png",
+      "key": "Head_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Attack/SpellCast/Bare.png",
+      "key": "Head_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Attack/Bow/Bare.png",
+      "key": "Head_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/Head/Attack/MeleeSwipe/Bare.png",
+      "key": "Head_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#7AC4D0", "#E9D2BD", "#D0C37A", "#EDE4B1", "#000000", "#DBA599", "#B4A967", "#336973", "#FFFFFF", "#4496A4", "#A3E8F4"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Idle/Loop/Sword.png",
+      "key": "MainHand_Idle_Loop_Sword",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Start/Sword.png",
+      "key": "MainHand_Run_Start_Sword",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Loop/Sword.png",
+      "key": "MainHand_Run_Loop_Sword",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/RunBare/Loop/Sword.png",
+      "key": "MainHand_RunBare_Loop_Sword",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Brake/Sword.png",
+      "key": "MainHand_Run_Brake_Sword",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Start/Sword.png",
+      "key": "MainHand_Dash_Start_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Brake/Sword.png",
+      "key": "MainHand_Dash_Brake_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Hurt/Sword.png",
+      "key": "MainHand_Hurt_Sword",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/SpellCast/Sword.png",
+      "key": "MainHand_Attack_SpellCast_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/Bow/Sword.png",
+      "key": "MainHand_Attack_Bow_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/MeleeSwipe/Sword.png",
+      "key": "MainHand_Attack_MeleeSwipe_Sword",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#6C96A3", "#73ACBD", "#ABCAD3", "#6E5151", "#4D6573", "#8D7E49", "#C1AA57", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Idle/Loop/Bow.png",
+      "key": "MainHand_Idle_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Start/Bow.png",
+      "key": "MainHand_Run_Start_Bow",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Loop/Bow.png",
+      "key": "MainHand_Run_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/RunBare/Loop/Bow.png",
+      "key": "MainHand_RunBare_Loop_Bow",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Brake/Bow.png",
+      "key": "MainHand_Run_Brake_Bow",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Start/Bow.png",
+      "key": "MainHand_Dash_Start_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Brake/Bow.png",
+      "key": "MainHand_Dash_Brake_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Hurt/Bow.png",
+      "key": "MainHand_Hurt_Bow",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/SpellCast/Bow.png",
+      "key": "MainHand_Attack_SpellCast_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/Bow/Bow.png",
+      "key": "MainHand_Attack_Bow_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/MeleeSwipe/Bow.png",
+      "key": "MainHand_Attack_MeleeSwipe_Bow",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#432E1E", "#806A59", "#9B7E67", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Idle/Loop/Staff.png",
+      "key": "MainHand_Idle_Loop_Staff",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Start/Staff.png",
+      "key": "MainHand_Run_Start_Staff",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Loop/Staff.png",
+      "key": "MainHand_Run_Loop_Staff",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/RunBare/Loop/Staff.png",
+      "key": "MainHand_RunBare_Loop_Staff",
+      "frames": 6,
+      "loop": true,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Brake/Staff.png",
+      "key": "MainHand_Run_Brake_Staff",
+      "frames": 3,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Start/Staff.png",
+      "key": "MainHand_Dash_Start_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Brake/Staff.png",
+      "key": "MainHand_Dash_Brake_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Hurt/Staff.png",
+      "key": "MainHand_Hurt_Staff",
+      "frames": 2,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/SpellCast/Staff.png",
+      "key": "MainHand_Attack_SpellCast_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/Bow/Staff.png",
+      "key": "MainHand_Attack_Bow_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/MeleeSwipe/Staff.png",
+      "key": "MainHand_Attack_MeleeSwipe_Staff",
+      "frames": 1,
+      "loop": false,
+      "colors": ["#503B3B", "#ABCAD3", "#693B18", "#6C96A3", "#695151", "#000000"]
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Idle/Loop/Bare.png",
+      "key": "MainHand_Idle_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Start/Bare.png",
+      "key": "MainHand_Run_Start_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Loop/Bare.png",
+      "key": "MainHand_Run_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/RunBare/Loop/Bare.png",
+      "key": "MainHand_RunBare_Loop_Bare",
+      "frames": 6,
+      "loop": true,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Run/Brake/Bare.png",
+      "key": "MainHand_Run_Brake_Bare",
+      "frames": 3,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Start/Bare.png",
+      "key": "MainHand_Dash_Start_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Dash/Brake/Bare.png",
+      "key": "MainHand_Dash_Brake_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Hurt/Bare.png",
+      "key": "MainHand_Hurt_Bare",
+      "frames": 2,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/SpellCast/Bare.png",
+      "key": "MainHand_Attack_SpellCast_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/Bow/Bare.png",
+      "key": "MainHand_Attack_Bow_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    },
+    {
+      "path": "C:/Users/ntdmi/AppData/Roaming/Aseprite/scripts/Test/MainHand/Attack/MeleeSwipe/Bare.png",
+      "key": "MainHand_Attack_MeleeSwipe_Bare",
+      "frames": 1,
+      "loop": false,
+      "colors": []
+    }
+  ]
+}
